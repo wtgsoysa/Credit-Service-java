@@ -4,14 +4,7 @@
 
 
 <h2>Contents</h2>
-<ul>
-        <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#getting-started">Getting Started</a></li>
-        <li><a href="#usage">Usage</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-</ul>
+
 
 <p align="center">
   <a href="#introduction">Introduction</a> •
